@@ -28,5 +28,8 @@ def get_request(url):
     result = response.json()
     return result
 
+def function():
+    pass
+
 if __name__ == '__main__':
     main()
