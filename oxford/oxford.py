@@ -31,5 +31,8 @@ def get_request(url):
 def function():
     pass
 
+def function2():
+    pass
+
 if __name__ == '__main__':
     main()
